@@ -1,2 +1,3 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Equivariant 4D Panoptic Segmentation
+description: Rotation-equivariance brings better performance and efficiency to 4D panoptic segmentation.
